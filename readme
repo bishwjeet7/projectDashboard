@@ -1,0 +1,12 @@
+Project Management - This project is create by using html, css, PHP, mysql, javascript, bootstrap. In this project i created 2 dashboard 1- user and 2 - admin. 
+USER - To see the user dashboard he have to first login or signup to move forward after login user will get 7 menu like - profile, dashboard, Upload,  track, query, payment. 
+PROFILE - is for user can see his details and he can also update it from there also. 
+DASHBOARD will show the track of all project or give overview like how much project you have uploaded and how much delivered etc. 
+UPLOAD – From here user can upload file with all details related to file upload.
+TRACK - When user upload any project then he can see the status of his project like it is approved by admin or not or if approved then its current status. if there is any message from admin then he can also see from there.
+Payment – To check the payment status or to make the payment of that project.
+Query – This is messaging page where user can create a query about his problem after that admin can take appropriate actions.
+
+ADMIN – admin will get all the details on his side about his user from here he can do all update.
+
+
